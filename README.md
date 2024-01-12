@@ -1,7 +1,6 @@
 ## Hello, traveller! 👋
 
 Here you will find personal projects and content from my studies.
-
 Feel free to get in touch or make use of anything you find useful!
 
 **IMPORTANT:** I'm currently organizing things before make this repos public.
