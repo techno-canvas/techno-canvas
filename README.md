@@ -15,10 +15,10 @@ Feel free to get in touch or make use of anything you find useful!
 - [AWS Serverless fundamentals](https://github.com/techno-canvas/concepts-aws-serverless) - [work in progress]
 
 #### DSA
-  [work in progress]
+  *[work in progress]*
   
 ### Open projects
-  [work in progress]
+  *[work in progress]*
 
 ---
 
