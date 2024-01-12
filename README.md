@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hello, traveller! 👋
+
+Here you will find personal projects and content from my studies.
+Feel free to get in touch or make use of anything you find useful!
+
+## ⚡Table of contents for easy navigation:
+
+### Studies on fundamental concepts
+
+#### Web Development
+- [Web development fundamental concepts](https://github.com/techno-canvas/concepts-web-development)
+- [Javascript fundamental concepts](https://github.com/techno-canvas/concepts-javascript)
+- [NodeJS fundamental concepts](https://github.com/techno-canvas/concepts-nodejs)
+- [AWS Serverless fundamentals](https://github.com/techno-canvas/concepts-aws-serverless)
 
 <!--
-**techno-canvas/techno-canvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### DSA
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Open projects
 -->
+
+#### [My certificates](https://github.com/techno-canvas/certificates) - List of certificates that I still have access.
+
