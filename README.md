@@ -14,7 +14,10 @@ Feel free to get in touch or make use of anything you find useful!
 - [NodeJS fundamental concepts](https://github.com/techno-canvas/concepts-nodejs) - [work in progress]
 - [AWS Serverless fundamentals](https://github.com/techno-canvas/concepts-aws-serverless) - [work in progress]
 
-#### DSA
+#### Data Structures and Algorithms
+  *[work in progress]*
+
+#### Artificial Inteligence
   *[work in progress]*
   
 ### Open projects
