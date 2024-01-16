@@ -8,9 +8,9 @@ Feel free to get in touch or make use of anything you find useful!
 ## ⚡Table of contents for easy navigation:
 
 > **Legend**
-- [👷‍♂️...work in progress] - Means that I'm still working on that part.
-- 🔗 - Means that it is a link pointing to some content INSIDE my own GitHub.
-- ↗️ - Means that it is a link pointing to some content OUTSIDE my GitHub.
+> **[👷‍♂️...work in progress]** - Means that I'm still working on that part.
+> 🔗 - Means that it is a link pointing to some content INSIDE my own GitHub.
+> ↗️ - Means that it is a link pointing to some content OUTSIDE my GitHub.
 
 ### Studies on fundamental concepts
 #### Web Development
