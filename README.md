@@ -7,7 +7,7 @@ Feel free to get in touch or make use of anything you find useful!
 
 ## ⚡Table of contents for easy navigation:
 
-### Studies on fundamental concepts
+### 📚 Studies on fundamental concepts
 #### Web Development
 - [Web development fundamental concepts](https://github.com/techno-canvas/concepts-web-development) - [work in progress]
 - [Javascript fundamental concepts](https://github.com/techno-canvas/concepts-javascript) - [work in progress]
@@ -20,12 +20,12 @@ Feel free to get in touch or make use of anything you find useful!
 #### Artificial Inteligence
   **[👷‍♂️...work in progress]**
   
-### Open projects
+### 💼 Open projects
   **[👷‍♂️...work in progress]**
 
 ---
 
-#### [My certificates](https://github.com/techno-canvas/certificates) - List of certificates that I still have access.
+### 🎓 [My certificates](https://github.com/techno-canvas/certificates) - List of certificates that I still have access.
 
 > **Legend**
 > - **[👷‍♂️...work in progress]** - Means that I'm still working on that part.
