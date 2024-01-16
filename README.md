@@ -26,7 +26,7 @@ Feel free to get in touch or make use of anything you find useful!
 ---
 
 > **Legend**
-> - **[👷‍♂️...work in progress]** - Means that I'm still working on that part.
-> - 🔗 - Means that it is a link pointing to some content INSIDE my own GitHub.
-> - ↗️ - Means that it is a link pointing to some content OUTSIDE my GitHub.
+> - **[👷‍♂️...work in progress]** - Means that I'm still working on that content.
+> - 🔗 - Means that it's a link pointing to some content INSIDE my own GitHub.
+> - ↗️ - Means that it's a link pointing to some content OUTSIDE my GitHub.
 
