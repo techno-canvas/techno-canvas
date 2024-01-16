@@ -27,6 +27,8 @@ Feel free to get in touch or make use of anything you find useful!
 
 ### 🎓 [My certificates](https://github.com/techno-canvas/certificates) - List of certificates that I still have access.
 
+---
+
 > **Legend**
 > - **[👷‍♂️...work in progress]** - Means that I'm still working on that part.
 > - 🔗 - Means that it is a link pointing to some content INSIDE my own GitHub.
