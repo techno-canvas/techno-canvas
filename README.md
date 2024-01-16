@@ -9,10 +9,10 @@ Feel free to get in touch or make use of anything you find useful!
 
 ### 📚 Studies on fundamental concepts
 #### Web Development
-- [Web development fundamental concepts](https://github.com/techno-canvas/concepts-web-development) - [work in progress]
-- [Javascript fundamental concepts](https://github.com/techno-canvas/concepts-javascript) - [work in progress]
-- [NodeJS fundamental concepts](https://github.com/techno-canvas/concepts-nodejs) - [work in progress]
-- [AWS Serverless fundamentals](https://github.com/techno-canvas/concepts-aws-serverless) - [work in progress]
+- [Web development fundamental concepts](https://github.com/techno-canvas/concepts-web-development) - [👷‍♂️...work in progress]
+- [Javascript fundamental concepts](https://github.com/techno-canvas/concepts-javascript) - [👷‍♂️...work in progress]
+- [NodeJS fundamental concepts](https://github.com/techno-canvas/concepts-nodejs) - [👷‍♂️...work in progress]
+- [AWS Serverless fundamentals](https://github.com/techno-canvas/concepts-aws-serverless) - [👷‍♂️...work in progress]
 
 #### Data Structures and Algorithms
   **[👷‍♂️...work in progress]**
