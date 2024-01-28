@@ -11,13 +11,18 @@ Feel free to get in touch or make use of anything you find useful!
 #### Web Development
 - [Web development fundamental concepts](https://github.com/techno-canvas/concepts-web-development)
 - [Javascript fundamental concepts](https://github.com/techno-canvas/concepts-javascript)
+- [Typescript fundamental concepts](https://github.com/techno-canvas/concepts-typescript)
 - [NodeJS fundamental concepts](https://github.com/techno-canvas/concepts-nodejs)
+- [React fundamental concepts](https://github.com/techno-canvas/concepts-react)
 - [AWS Serverless fundamentals](https://github.com/techno-canvas/concepts-aws-serverless)
 
 #### Data Structures and Algorithms
   **[👷‍♂️...work in progress]**
 
 #### Artificial Inteligence
+  **[👷‍♂️...work in progress]**
+
+### 💼 Articles
   **[👷‍♂️...work in progress]**
   
 ### 💼 Open projects
