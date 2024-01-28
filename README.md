@@ -22,7 +22,7 @@ Feel free to get in touch or make use of anything you find useful!
 #### Artificial Inteligence
   **[👷‍♂️...work in progress]**
 
-### 💼 Articles
+### 📰 Articles
   **[👷‍♂️...work in progress]**
   
 ### 💼 Open projects
